@@ -1,0 +1,7 @@
+Mongodb Autoincrement Helper
+============================
+
+This class gives you the ability to have an auto-increment key for your Mongodb database
+
+Please see the unit-test class for usage
+
